@@ -1,0 +1,8 @@
+Buffers
+
+5 | C-x b | Select another buffer
+5 | C-x C-b | List all buffers
+5 | C-x k | Kill a buffer
+5 | C-x s | Save buffers
+5 | C-x <-| Previous buffer
+5 | C-x -> | Next buffer

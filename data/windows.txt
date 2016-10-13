@@ -1,0 +1,13 @@
+Windows
+
+5 | C-x 1 | One window (i.e., kill all other windows)
+5 | C-x 2 | Split window verticaly
+5 | C-x 3 | Split window horizontaly
+5 | C-M v | Scroll other window
+5 | C-x o | Switch focus to other window
+5 | M-x make-frame | Make frame 
+5 | M-x delete-frame | Close other window
+
+
+
+

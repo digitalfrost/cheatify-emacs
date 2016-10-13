@@ -1,0 +1,9 @@
+Files
+
+5 | C-x C-f | Find file / Open file
+5 | C-x C-s | Save file
+5 | C-x s | Save all files
+5 | C-x C-v | Repalce this file with the file you really want
+5 | C-x C-w | Write buffer to specified file
+
+

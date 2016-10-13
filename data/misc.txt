@@ -1,0 +1,4 @@
+Misc
+
+5 | C-g | Stop a command
+5 | C-x u | Undo

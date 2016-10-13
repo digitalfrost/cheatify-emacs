@@ -1,0 +1,5 @@
+Search
+
+5 | C-s | Search Forward
+5 | C-r | Search Backward
+5 | M-x replace-string | Replace string after initial position

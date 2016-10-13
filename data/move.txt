@@ -1,0 +1,27 @@
+Move
+
+5 | C-f | Forward 1 character
+5 | C-b | Back 1 Character
+5 | M-f | Forward 1 word
+5 | M-b | Backward 1 word
+5 | C-n | Next line
+5 | C-p | Previous line
+5 | C-a | Begining of line
+5 | C-e | End of line
+5 | M-m | Begining of indentation
+5 | M-a | Begining Sentence
+5 | M-e | End of Sentence
+5 | M-{ | Begining Paragraph
+5 | M-} | End of Paragraph
+5 | C-M-b | Begining of S exp
+5 | C-M-f | End of S exp
+5 | C-M-a | Begining of function
+5 | C-M-e | End of function
+5 | C-v | Scroll to next screen
+5 | M-v | Scroll to previous screen
+5 | C-l | Scroll current line to center
+5 | C-l C-l | Scroll current line to top
+5 | C-l C-l C-l | Scroll current line to bottom
+5 | M-g g | Go to line
+5 | M-< | Begining of buffer
+5 | M-> | End of buffer
